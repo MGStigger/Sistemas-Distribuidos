@@ -1,0 +1,8 @@
+
+1. O que é Chamada de Procedimento Remoto?
+
+2. Qual a função dos stubs no RPC?
+
+3. Descreva o funcionamento de uma operação RPC.
+
+4. Qual a principal diferença do RPC assíncrono para o RPC síncrono?
