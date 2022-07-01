@@ -1,0 +1,11 @@
+****************************************************************************************
+
+1) Resuma o funcionamento dos Sistemas Publicar-Assinar.
+
+2) Quais são os esquemas definidos para o modelo de assinatura (filtro)? Comente-os.
+
+3) Descreva sobre as estratégias de implementação centralizadas e distribuídas.
+
+4) Sobre roteamento de eventos, comente sobre as estratégias de inundação e filtragem.
+
+****************************************************************************************
